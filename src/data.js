@@ -6,7 +6,7 @@ const projects = [
         title: 'Candra Ltd',
         category: 'MERN',
         tech: 'React',
-        img: 'url'
+        img: 'url',
         desc: 'description'
     },
     {
@@ -14,7 +14,7 @@ const projects = [
         title: 'Clow Cards',
         category: 'Front-End',
         tech: 'React',
-        img: 'url'
+        img: 'url',
         desc: 'description'
     },
     {
@@ -22,7 +22,7 @@ const projects = [
         title: 'Express Site',
         category: 'SPA',
         tech: 'node.js',
-        img: 'url'
+        img: 'url',
         desc: 'description'
     },
     {
@@ -30,7 +30,7 @@ const projects = [
         title: 'Battleship - EX',
         category: 'Full-Stack',
         tech: 'HTML',
-        img: 'url'
+        img: 'url',
         desc: 'description'
     },
     {
@@ -38,7 +38,7 @@ const projects = [
         title: 'Activism App',
         category: 'MERN',
         tech: 'React',
-        img: 'url'
+        img: 'url',
         desc: 'description'
     },
     {
@@ -46,7 +46,7 @@ const projects = [
         title: 'InSynch',
         category: 'Full-Stack',
         tech: 'Python',
-        img: 'url'
+        img: 'url',
         desc: 'description'
     },
 ]
