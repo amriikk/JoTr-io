@@ -3,49 +3,49 @@
 const projects = [
     {
         id: 1,
-        title: '',
-        category: '',
-        tech: '',
+        title: 'Candra Ltd',
+        category: 'MERN',
+        tech: 'React',
         img: 'url'
         desc: 'description'
     },
     {
         id: 1,
-        title: '',
-        category: '',
-        tech: '',
+        title: 'Clow Cards',
+        category: 'Front-End',
+        tech: 'React',
         img: 'url'
         desc: 'description'
     },
     {
         id: 2,
-        title: '',
-        category: '',
-        tech: '',
+        title: 'Express Site',
+        category: 'SPA',
+        tech: 'node.js',
         img: 'url'
         desc: 'description'
     },
     {
         id: 3,
-        title: '',
-        category: '',
-        tech: '',
+        title: 'Battleship - EX',
+        category: 'Full-Stack',
+        tech: 'HTML',
         img: 'url'
         desc: 'description'
     },
     {
         id: 4,
-        title: '',
-        category: '',
-        tech: '',
+        title: 'Activism App',
+        category: 'MERN',
+        tech: 'React',
         img: 'url'
         desc: 'description'
     },
     {
         id: 5,
-        title: '',
-        category: '',
-        tech: '',
+        title: 'InSynch',
+        category: 'Full-Stack',
+        tech: 'Python',
         img: 'url'
         desc: 'description'
     },
