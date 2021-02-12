@@ -7,7 +7,7 @@ const projects = [
         category: 'MERN',
         tech: 'React',
         img: 'url',
-        desc: 'description'
+        desc: 'https://github.com/amriikk/CandraLtd'
     },
     {
         id: 1,
@@ -15,7 +15,7 @@ const projects = [
         category: 'Front-End',
         tech: 'React',
         img: 'url',
-        desc: 'description'
+        desc: 'https://github.com/amriikk/ClowCards-React'
     },
     {
         id: 2,
