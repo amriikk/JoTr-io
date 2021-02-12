@@ -23,7 +23,7 @@ const projects = [
         category: 'SPA',
         tech: 'node.js',
         img: 'url',
-        desc: 'description'
+        desc: 'https://github.com/amriikk/VajraWarrior-Express'
     },
     {
         id: 3,
@@ -31,7 +31,7 @@ const projects = [
         category: 'Full-Stack',
         tech: 'HTML',
         img: 'url',
-        desc: 'description'
+        desc: 'https://github.com/amriikk/Battleship-EX'
     },
     {
         id: 4,
