@@ -38,7 +38,7 @@ const projects = [
         title: 'Activism App',
         category: 'MERN',
         tech: 'React',
-        img: 'url',
+        img: 'https://i.imgur.com/1ZL4XlR.png',
         desc: 'https://github.com/amriikk/Activism-App'
     },
     {
