@@ -14,7 +14,7 @@ const projects = [
         title: 'Clow Cards',
         category: 'Front-End',
         tech: 'React',
-        img: 'url',
+        img: 'https://i.imgur.com/1QTYLXM.png',
         desc: 'https://github.com/amriikk/ClowCards-React'
     },
     {
