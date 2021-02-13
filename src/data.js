@@ -22,7 +22,7 @@ const projects = [
         title: 'Express Site',
         category: 'SPA',
         tech: 'node.js',
-        img: 'url',
+        img: 'https://i.imgur.com/FqxjKlf.png',
         desc: 'https://github.com/amriikk/VajraWarrior-Express'
     },
     {
