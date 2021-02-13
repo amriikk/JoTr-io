@@ -39,7 +39,7 @@ const projects = [
         category: 'MERN',
         tech: 'React',
         img: 'url',
-        desc: 'description'
+        desc: 'https://github.com/amriikk/Activism-App'
     },
     {
         id: 5,
@@ -47,7 +47,7 @@ const projects = [
         category: 'Full-Stack',
         tech: 'Python',
         img: 'url',
-        desc: 'description'
+        desc: 'https://github.com/amriikk/inSynch-Python'
     },
 ]
     
