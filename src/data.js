@@ -46,7 +46,7 @@ const projects = [
         title: 'InSynch',
         category: 'Full-Stack',
         tech: 'Python',
-        img: 'url',
+        img: 'https://i.imgur.com/FbRw9bO.png',
         desc: 'https://github.com/amriikk/inSynch-Python'
     },
 ]
