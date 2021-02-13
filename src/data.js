@@ -30,7 +30,7 @@ const projects = [
         title: 'Battleship - EX',
         category: 'Full-Stack',
         tech: 'HTML',
-        img: 'url',
+        img: 'https://github.com/amriikk/battleship/blob/master/assets/README/BattleWars_02.png',
         desc: 'https://github.com/amriikk/Battleship-EX'
     },
     {
