@@ -13,8 +13,9 @@ const Portfolio = ({ items }) => {
                         <div className='item-info'>
                             <header>
                                 <h4>{ title }</h4>
-                                <h5>{ desc }</h5>
+                                <h5 className='tech'>{ tech }</h5>
                             </header>
+                            <p className='item-text'>{ desc }</p>
                         </div>
                     </article>
                 );
