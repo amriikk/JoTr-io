@@ -1,7 +1,13 @@
 import React from 'react';
 
-const Categories = () => {
-    return <h2>Categories component</h2>
+const Categories = ({ filterItems }) => {
+    return (
+        <div className='btn-container'>
+            <button className='filter-btn' onClick={() => filterItems('React')}>
+                React
+            </button>
+        </div>
+    );
 };
 
 export default Categories;
