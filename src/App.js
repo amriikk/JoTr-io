@@ -16,7 +16,7 @@ function App() {
           <div className='underline'></div>
         </div>
         <Categories />
-        <Portfolio />
+        <Portfolio items={portfolioItems} />
       </section>
     </main>
   );

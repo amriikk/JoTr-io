@@ -185,7 +185,7 @@ Variables
     gap: 3rem 2rem;
     justify-items: center;
   }
-  .clow-card {
+  .portfolio-item {
     display: grid;
     gap: 1rem 2rem;
     max-width: 25rem;
@@ -215,7 +215,7 @@ Variables
   }
   
   @media screen and (min-width: 768px) {
-    .clow-card {
+    .portfolio-item {
       grid-template-columns: 225px 1fr;
       gap: 0 1.25rem;
       max-width: 40rem;
