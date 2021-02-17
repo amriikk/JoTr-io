@@ -3,11 +3,11 @@ import Portfolio from './components/Portfolio';
 import Categories from './components/Categories';
 import projects from './data';
 
-const allCategories = new Set(items.map((item) => item.category));
+const allCategories = ['all', ...new Set(projects.map((item) => item.category))];
 
 function App() {
   const [portfolioItems, setPortfolioItems] = useState(projects);
-  const [categories, setCategories] = useState([]);
+  const [categories, setCategories] = useState(allCategories);
 
   const filterItems = (category) => {
     if(category === 'all'){
