@@ -11,8 +11,8 @@ function App() {
     <main>
       <section className='portfolio'>
         <div>
-          <h1>Jo.Tr.io</h1>
-          <h2>A Visionary Portfolio</h2>
+          <h1 className='title'>Jo.Tr.io</h1>
+          <h2 className='subtitle'>A Visionary Portfolio</h2>
           <div className='underline'></div>
         </div>
         <Categories />

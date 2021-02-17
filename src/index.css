@@ -149,7 +149,7 @@ Variables
     margin-bottom: 2rem;
   }
   .underline {
-    width: 15rem;
+    width: 25rem;
     height: 0.25rem;
     background: var(--clr-gold);
     margin-left: auto;
