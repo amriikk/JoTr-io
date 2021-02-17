@@ -221,7 +221,7 @@ Variables
       max-width: 40rem;
     }
     .photo {
-      height: 500px;
+      height: 175px;
     }
   }
   @media screen and (min-width: 1200px) {
@@ -230,6 +230,6 @@ Variables
       grid-template-columns: 1fr 1fr;
     }
     .photo {
-      height: 500px;
+      height: 150px;
     }
   }
