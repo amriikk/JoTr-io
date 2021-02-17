@@ -11,7 +11,7 @@ const projects = [
     },
     {
         id: 2,
-        title: 'Clow Cards',
+        title: 'Clowcaptor Cards',
         category: 'Front-End',
         tech: 'React',
         img: 'https://i.imgur.com/1QTYLXM.png',
@@ -19,7 +19,7 @@ const projects = [
     },
     {
         id: 3,
-        title: 'Express Site',
+        title: 'VajraWarrior Yoga',
         category: 'SPA',
         tech: 'node.js',
         img: 'https://i.imgur.com/FqxjKlf.png',
@@ -35,19 +35,19 @@ const projects = [
     },
     {
         id: 5,
-        title: 'Activism App',
-        category: 'MERN',
-        tech: 'React',
-        img: 'https://i.imgur.com/1ZL4XlR.png',
-        desc: 'https://github.com/amriikk/Activism-App'
-    },
-    {
-        id: 6,
         title: 'InSynch',
         category: 'Full-Stack',
         tech: 'Python',
         img: 'https://i.imgur.com/FbRw9bO.png',
         desc: 'https://github.com/amriikk/inSynch-Python'
+    },
+    {
+        id: 6,
+        title: 'Activism App',
+        category: 'MERN',
+        tech: 'React',
+        img: 'https://i.imgur.com/1ZL4XlR.png',
+        desc: 'https://github.com/amriikk/Activism-App'
     },
 ]
     
