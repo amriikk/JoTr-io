@@ -26,7 +26,7 @@ function App() {
           <h2 className='subtitle'>A Visionary Portfolio</h2>
           <div className='underline'></div>
         </div>
-        <Categories filterItems={filterItems}/>
+        <Categories categories={categories} filterItems={filterItems}/>
         <Portfolio items={portfolioItems} />
       </section>
     </main>
