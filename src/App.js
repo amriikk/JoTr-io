@@ -8,6 +8,10 @@ function App() {
   const [categories, setCategories] = useState([]);
 
   const filterItems = (category) => {
+    if(category === 'all'){
+      setPortfolioItems(projects);
+      return;
+    }
     const newItems = projects.filter((item) => item.category === category);
     setPortfolioItems(newItems);
   };
