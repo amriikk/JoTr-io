@@ -7,6 +7,11 @@ function App() {
   const [portfolioItems, setPortfolioItems] = useState(projects);
   const [categories, setCategories] = useState([]);
 
+  const filterItems = (category) => {
+    const newItems = items.filter((item) => item.category === category);
+    setPortfolioItems(newItems);
+  };
+
   return (
     <main>
       <section className='portfolio'>
@@ -15,7 +20,7 @@ function App() {
           <h2 className='subtitle'>A Visionary Portfolio</h2>
           <div className='underline'></div>
         </div>
-        <Categories />
+        <Categories filterItems={filterItems}/>
         <Portfolio items={portfolioItems} />
       </section>
     </main>
