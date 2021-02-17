@@ -61,7 +61,7 @@ Variables
   }
   body {
     font-family: 'Lemonada', 'Open Sans', 'Helvetica Neue', sans-serif;
-    background: skyblue;
+    background: deepskyblue;
     color: var(--clr-grey-1);
     line-height: 1.5;
     font-size: 0.875rem;
@@ -144,7 +144,7 @@ Variables
   .portfolio {
     padding: 5rem 0;
   }
-  .title {
+  .title, .subtitle {
     text-align: center;
     margin-bottom: 2rem;
   }
@@ -198,18 +198,18 @@ Variables
     border-radius: var(--radius);
     display: block;
   }
-  .card-info header {
+  .item-info header {
     display: flex;
     justify-content: space-between;
     border-bottom: 0.5px dotted var(--clr-grey-5);
   }
-  .card-info h4 {
+  .item-info h4 {
     margin-bottom: 0.5rem;
   }
-  .guardian {
+  .tech {
     color: var(--clr-gold);
   }
-  .card-text {
+  .item-text {
     margin-bottom: 0;
     padding-top: 1rem;
   }
