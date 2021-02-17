@@ -10,6 +10,12 @@ const Portfolio = ({ items }) => {
                 return (
                     <article key={id} className='portfolio-item'>
                         <img src={img} alt={title} className='photo' />
+                        <div className='item-info'>
+                            <header>
+                                <h4>{ title }</h4>
+                                <h5>{ desc }</h5>
+                            </header>
+                        </div>
                     </article>
                 );
             })}
