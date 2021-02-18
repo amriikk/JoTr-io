@@ -54,7 +54,7 @@ const projects = [
         title: 'Tours App',
         category: 'SPA',
         tech: 'React',
-        img: 'https://i.imgur.com/1ZL4XlR.png',
+        img: 'https://i.imgur.com/DD3fR6o.png',
         desc: 'Tours App generates a list of rendezvous with an image and a short description. Built using React.js'
     },
     {
