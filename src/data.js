@@ -62,10 +62,9 @@ const projects = [
         title: 'Accordion FAQ',
         category: 'SPA',
         tech: 'React',
-        img: 'https://i.imgur.com/1ZL4XlR.png',
-        desc: 'Accordion like FAQ Software Dev page done with React.js'
+        img: 'https://i.imgur.com/EvIOj2m.png',
+        desc: 'Accordion like FAQ Software Dev single page application built with React.js'
     }
 ]
     
-
 export default projects;
