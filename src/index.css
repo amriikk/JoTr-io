@@ -60,7 +60,7 @@ Variables
     box-sizing: border-box;
   }
   body {
-    font-family: 'Lemonada', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Reggae One', 'Open Sans', 'Helvetica Neue', sans-serif;
     background: deepskyblue;
     color: var(--clr-grey-1);
     line-height: 1.5;
@@ -94,6 +94,7 @@ Variables
     font-size: 0.875rem;
   }
   p {
+    font-family: 'Truculenta', serif;
     margin-bottom: 1.25rem;
     color: var(--clr-grey-5);
   }
