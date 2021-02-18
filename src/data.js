@@ -29,7 +29,7 @@ const projects = [
         id: 4,
         title: 'Battleship - EX',
         category: 'Full-Stack',
-        tech: 'HTML',
+        tech: 'HTML, Vanilla JS',
         img: 'https://i.imgur.com/kJ7OymR.png',
         desc: 'To start the game, select a begin by inputing a coordinate in the guess box located at the bottom right of the game board. The objective of the game it to sink all 3 of the CPU ships to win the game! '
     },
