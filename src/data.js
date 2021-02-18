@@ -59,28 +59,12 @@ const projects = [
     },
     {
         id: 8,
-        title: 'Activism App',
-        category: 'MERN',
+        title: 'Accordion FAQ',
+        category: 'SPA',
         tech: 'React',
         img: 'https://i.imgur.com/1ZL4XlR.png',
         desc: 'In todays rapidly changing world, social issues are becoming wildly complex, flash-button issues that are difficult to have productive conversations about. This application seeks to provide a space that acts as a hub for users to access valuable resources to better their own understanding of complex issues, interact with one another to see the dialogues about particular issues, and overall have a gamified experience that motivates users to take an active role in having difficult conversations.'
-    },
-    {
-        id: 9,
-        title: 'Activism App',
-        category: 'MERN',
-        tech: 'React',
-        img: 'https://i.imgur.com/1ZL4XlR.png',
-        desc: 'In todays rapidly changing world, social issues are becoming wildly complex, flash-button issues that are difficult to have productive conversations about. This application seeks to provide a space that acts as a hub for users to access valuable resources to better their own understanding of complex issues, interact with one another to see the dialogues about particular issues, and overall have a gamified experience that motivates users to take an active role in having difficult conversations.'
-    },
-    {
-        id: 10,
-        title: 'Activism App',
-        category: 'MERN',
-        tech: 'React',
-        img: 'https://i.imgur.com/1ZL4XlR.png',
-        desc: 'In todays rapidly changing world, social issues are becoming wildly complex, flash-button issues that are difficult to have productive conversations about. This application seeks to provide a space that acts as a hub for users to access valuable resources to better their own understanding of complex issues, interact with one another to see the dialogues about particular issues, and overall have a gamified experience that motivates users to take an active role in having difficult conversations.'
-    },
+    }
 ]
     
 
