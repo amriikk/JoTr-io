@@ -6,7 +6,7 @@ const projects = [
         title: 'Candra Ltd',
         category: 'MERN',
         tech: 'React',
-        img: '#',
+        img: 'https://i.imgur.com/5Wi6nfn.png',
         desc: 'Candra Ltd was built as a massive e-commerce application similar to Shopify using React, Redux, React Hooks, React Suspense, React Router, GraphQL, Context API, Firebase, Redux-Saga, Stripe + more.'
     },
     {
