@@ -23,7 +23,7 @@ const projects = [
         category: 'SPA',
         tech: 'node.js',
         img: 'https://i.imgur.com/FqxjKlf.png',
-        desc: 'Yoga Studio Website built using node.js / Express.js https://github.com/amriikk/VajraWarrior-Express'
+        desc: 'Yoga Studio Website built using node.js / Express.js for a Yoga Instructor in Los Angeles, CA https://github.com/amriikk/VajraWarrior-Express'
     },
     {
         id: 4,
