@@ -1,5 +1,5 @@
-# Jo.Tr.io
-## John Trujillo
+<h2 align="center">JoTr.io</h2>
+<h2 align="center">Jhon Trujillo | Software Engineer</h2>
 
 <h2 align="center">Introduction</h2>
 
@@ -10,10 +10,10 @@ Software Engineer. Creative Visionary. Practical Developer.
 
 <h2 align="center">Getting Started</h2>
 
-| [Link to Vercel](https://#/) :trollface: | 
+| [Link to Vercel](jotr-io-amriikk.vercel.app) :trollface: | 
 | ------------ |
 
-![Portfolio](https://#)
+![Portfolio](https://i.imgur.com/EBQQpwq.png)
 
 <h2 align="center">Technolgies + Techniques Utilized</h2>
 
