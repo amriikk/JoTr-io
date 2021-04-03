@@ -34,7 +34,7 @@ const projects = [
         category: 'Full-Stack',
         tech: 'HTML, Vanilla JS',
         img: 'https://i.imgur.com/kJ7OymR.png',
-        link: '',
+        link: 'https://github.com/amriikk/Battleship-EX',
         desc: 'To start the game, select a begin by inputing a coordinate in the guess box located at the bottom right of the game board. The objective of the game it to sink all 3 of the CPU ships to win the game! '
     },
     {
@@ -43,7 +43,7 @@ const projects = [
         category: 'Full-Stack',
         tech: 'Python',
         img: 'https://i.imgur.com/FbRw9bO.png',
-        link: '',
+        link: 'https://github.com/amriikk/inSynch-Python',
         desc: 'Are you ever in a mood and want to listen to music that goes along with how you feel? inSynch provides the opportunity to view playlists that go along with different moods. In addition, it allows you as a user to log in and add songs to these playlists based on what mood each of those songs puts you in.'
     },
     {
