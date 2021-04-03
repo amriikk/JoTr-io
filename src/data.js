@@ -7,7 +7,7 @@ const projects = [
         category: 'MERN',
         tech: 'React',
         img: 'https://i.imgur.com/5Wi6nfn.png',
-        link: 'https://github.com/amriikk/CandraLtd',
+        ghLink: 'https://github.com/amriikk/CandraLtd',
         desc: 'Candra Ltd was built as a massive e-commerce application similar to Shopify using React, Redux, React Hooks, React Suspense, React Router, GraphQL, Context API, Firebase, Redux-Saga, Stripe + more.'
     },
     {
@@ -16,7 +16,7 @@ const projects = [
         category: 'Front-End',
         tech: 'React',
         img: 'https://i.imgur.com/1QTYLXM.png',
-        link: 'https://github.com/amriikk/ClowCards-React',
+        ghLink: 'https://github.com/amriikk/ClowCards-React',
         desc: 'The cards represent a combination of Eastern and Western magic centered on the concepts of natural forces and elements. The original Clow Cards fall under a specific sign, the sun or moon, and correspond to the guardians Cerberus and Yue.'
     },
     {
@@ -25,7 +25,7 @@ const projects = [
         category: 'SPA',
         tech: 'node.js',
         img: 'https://i.imgur.com/FqxjKlf.png',
-        link: 'https://github.com/amriikk/VajraWarrior-Express',
+        ghLink: 'https://github.com/amriikk/VajraWarrior-Express',
         desc: 'Yoga Studio Website built using node.js / Express.js for a Yoga Instructor in Los Angeles, CA https://github.com/amriikk/VajraWarrior-Express'
     },
     {
@@ -34,7 +34,7 @@ const projects = [
         category: 'Full-Stack',
         tech: 'HTML, Vanilla JS',
         img: 'https://i.imgur.com/kJ7OymR.png',
-        link: 'https://github.com/amriikk/Battleship-EX',
+        ghLink: 'https://github.com/amriikk/Battleship-EX',
         desc: 'To start the game, select a begin by inputing a coordinate in the guess box located at the bottom right of the game board. The objective of the game it to sink all 3 of the CPU ships to win the game! '
     },
     {
