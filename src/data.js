@@ -70,7 +70,7 @@ const projects = [
         category: 'MERN',
         tech: 'React',
         img: 'https://i.imgur.com/1ZL4XlR.png',
-        link: '',
+        link: 'https://github.com/amriikk/Activism-App',
         desc: 'This application seeks to provide a space that acts as a hub for users to access valuable resources to better their own understanding of complex issues, interact with one another to see the dialogues about particular issues, and overall have a gamified experience that motivates users to take an active role in having difficult conversations.'
     },
 ]
