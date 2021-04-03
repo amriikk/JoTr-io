@@ -5,7 +5,7 @@
 
 Software Engineer. Creative Visionary. Practical Developer.
 
-###### This is my personal portfolio with some of my most recent work.
+###### This is my personal portfolio with some of my most recent works + projects.
 
 
 <h2 align="center">Getting Started</h2>
