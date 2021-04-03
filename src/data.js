@@ -52,7 +52,7 @@ const projects = [
         category: 'SPA',
         tech: 'React',
         img: 'https://i.imgur.com/DD3fR6o.png',
-        link: '',
+        link: 'https://github.com/amriikk/tours-react',
         desc: 'Tours App generates a list of rendezvous with an image and a short description. Built using React.js'
     },
     {
@@ -61,7 +61,7 @@ const projects = [
         category: 'SPA',
         tech: 'React',
         img: 'https://i.imgur.com/EvIOj2m.png',
-        link: '',
+        link: 'https://github.com/amriikk/accordion-react',
         desc: 'Accordion like FAQ Software Dev single page application built with React.js'
     },
     {
