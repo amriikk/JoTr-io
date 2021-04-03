@@ -43,7 +43,7 @@ const projects = [
         category: 'Full-Stack',
         tech: 'Python',
         img: 'https://i.imgur.com/FbRw9bO.png',
-        link: 'https://github.com/amriikk/inSynch-Python',
+        ghLink: 'https://github.com/amriikk/inSynch-Python',
         desc: 'Are you ever in a mood and want to listen to music that goes along with how you feel? inSynch provides the opportunity to view playlists that go along with different moods. In addition, it allows you as a user to log in and add songs to these playlists based on what mood each of those songs puts you in.'
     },
     {
@@ -52,7 +52,7 @@ const projects = [
         category: 'SPA',
         tech: 'React',
         img: 'https://i.imgur.com/DD3fR6o.png',
-        link: 'https://github.com/amriikk/tours-react',
+        ghLink: 'https://github.com/amriikk/tours-react',
         desc: 'Tours App generates a list of rendezvous with an image and a short description. Built using React.js'
     },
     {
@@ -61,7 +61,7 @@ const projects = [
         category: 'SPA',
         tech: 'React',
         img: 'https://i.imgur.com/EvIOj2m.png',
-        link: 'https://github.com/amriikk/accordion-react',
+        ghLink: 'https://github.com/amriikk/accordion-react',
         desc: 'Accordion like FAQ Software Dev single page application built with React.js'
     },
     {
@@ -70,7 +70,7 @@ const projects = [
         category: 'MERN',
         tech: 'React',
         img: 'https://i.imgur.com/1ZL4XlR.png',
-        link: 'https://github.com/amriikk/Activism-App',
+        ghLink: 'https://github.com/amriikk/Activism-App',
         desc: 'This application seeks to provide a space that acts as a hub for users to access valuable resources to better their own understanding of complex issues, interact with one another to see the dialogues about particular issues, and overall have a gamified experience that motivates users to take an active role in having difficult conversations.'
     },
 ]
