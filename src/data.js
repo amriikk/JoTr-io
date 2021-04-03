@@ -16,7 +16,7 @@ const projects = [
         category: 'Front-End',
         tech: 'React',
         img: 'https://i.imgur.com/1QTYLXM.png',
-        link: '',
+        link: 'https://github.com/amriikk/ClowCards-React',
         desc: 'The cards represent a combination of Eastern and Western magic centered on the concepts of natural forces and elements. The original Clow Cards fall under a specific sign, the sun or moon, and correspond to the guardians Cerberus and Yue.'
     },
     {
