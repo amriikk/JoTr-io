@@ -15,7 +15,7 @@ const Portfolio = ({ items }) => {
                                 <h4>{ title }</h4>
                                 <h5 className='tech'>{ tech }</h5>
                             </header>
-                            <h6 className='gh-link'>{ ghLink }</h6>
+                            <h6 className='gh-link'><a href={ ghLink }>{ ghLink }</a></h6>
                             <p className='item-text'>{ desc }</p>
                         </div>
                     </article>
