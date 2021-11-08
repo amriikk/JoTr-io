@@ -10,7 +10,7 @@ Software Engineer. Creative Visionary. Practical Developer.
 
 <h2 align="center">Getting Started</h2>
 
-| [Link to Portfolio](https://jotr-io-amriikk.vercel.app) :trollface: | 
+| [Link to Portfolio](https://bit.ly/jotrio) :trollface: | 
 | ------------ |
 
 ![Portfolio](https://i.imgur.com/EBQQpwq.png)
