@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Footer from './components/Footer';
 import Portfolio from './components/Portfolio';
 import Categories from './components/Categories';
 import projects from './data';
@@ -28,6 +29,8 @@ function App() {
         </div>
         <Categories categories={categories} filterItems={filterItems}/>
         <Portfolio items={portfolioItems} />
+        <br /><hr />
+        <Footer />
       </section>
     </main>
   );
