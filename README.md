@@ -9,7 +9,7 @@
 </div>
 
 <div align="center"> 1 part Software Engineer. 3 parts Creative Visionary. 2 parts Athletic Yogi. </br> My favorite stacks consist of; React.js, node.js, MongoDB, express.js, Python (but I have experience with Java + MatLab as well). </br> Fun facts: 
-Ambidexterous + Multilingual | Animal Lover | Foodie | Pokémon Maestro </br> </div>
+Ambidexterous + Multilingual | Animal Lover | Foodie | Pokémon Maestro + Hogwarts Alumnus </br> </div>
 
 
 ![Portfolio](https://i.imgur.com/EBQQpwq.png)
