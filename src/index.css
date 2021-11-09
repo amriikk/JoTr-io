@@ -157,10 +157,13 @@ Variables
     margin-right: auto;
   }
   .btn-container {
-    font-family: 'Cutive Mono', 'Open Sans', 'Helvetica Neue', sans-serif;
-    margin-bottom: 4rem;
     display: flex;
+    margin-bottom: 4rem;
     justify-content: center;
+  }
+  .fa-links {
+    display: flex;
+    justify-content: space-evenly;
   }
   .filter-btn {
     background: transparent;
