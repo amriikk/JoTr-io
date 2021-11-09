@@ -7,17 +7,18 @@
 [![Gmail Badge](https://img.shields.io/badge/-amriikk@gmail.com-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:amriikk@gmail.com)](mailto:amriikk@gmail.com)
 
 </div>
-
-<div align="center"> 1 part Software Engineer. 3 parts Creative Visionary. 2 parts Athletic Yogi. </br> My favorite stacks consist of; React.js, node.js, MongoDB, express.js, Python (but I have experience with Java + MatLab as well). </br> Fun facts: 
+<h3 align="center">Introducing..</h3>
+<div align="center"> 1 part Software Engineer. 2 parts Athletic Yogi. 3 parts Creative Visionary. </div ></br> <div align="center"> My favorite stacks consist of; React.js, node.js, MongoDB, express.js, Python, Django  </div> </br> <div align="center"> Fun facts: 
 Ambidexterous + Multilingual | Animal Lover | Foodie | Pokémon Maestro + Hogwarts Alumnus </br> </div>
 
 
 ![Portfolio](https://i.imgur.com/EBQQpwq.png)
 
-###### This is my personal portfolio with some of my most recent works + projects.
+<h6 align="center">This is my personal portfolio with some of my most recent works + projects. </h6>
+<h6 align="center">Feel free to contact me me via Gmail + LinkedIn using the links above. </h6>
 
 
-<h2 align="center">Technolgies + Techniques Utilized</h2>
+<h3 align="center">Technolgies + Techniques Utilized</h3>
 
 | . | . | . | . | . | . |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
