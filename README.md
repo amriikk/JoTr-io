@@ -1,12 +1,14 @@
 <h2 align="center">Jo.Tr.io</h2>
 <h2 align="center">Jhon Trujillo | Software Engineer</h2>
 
-Software Engineer. Creative Visionary. Practical Developer.
+<div align="center"> 1 part Software Engineer. 3 parts Creative Visionary. 2 parts Athletic Yogi. </br> Fun fact: 
+**Ambidexterous** + *Multilingual* </br> </div>
 
 <div align="center">
 
-![Linkedin Badge](https://img.shields.io/badge/-JhonKhrizhtian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonKhrizhtian/)
-[![Website Badge](https://img.shields.io/badge/-Jo.Tr.io-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://bit.ly/jotrio/)](https://bit.ly/jotrio/)
+[![Website Badge](https://img.shields.io/badge/-Jo.Tr.io-gold?style=plastic&logo=HTML5&logoColor=white&link=https://bit.ly/jotrio/)](https://bit.ly/jotrio/)
+![Linkedin Badge](https://img.shields.io/badge/-JhonKhrizhtian-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonKhrizhtian/)
+[![Gmail Badge](https://img.shields.io/badge/-amriikk@gmail.com-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:amriikk@gmail.com)](mailto:amriikk@gmail.com)
 
 </div>
 
