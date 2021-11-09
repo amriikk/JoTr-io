@@ -1,4 +1,4 @@
-<h2 align="center">JoTr.io</h2>
+<h2 align="center">Jo.Tr.io</h2>
 <h2 align="center">Jhon Trujillo | Software Engineer</h2>
 
 Software Engineer. Creative Visionary. Practical Developer.
