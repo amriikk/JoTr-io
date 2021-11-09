@@ -11,15 +11,17 @@
 <div align="center"> 1 part Software Engineer. 2 parts Athletic Yogi. 3 parts Creative Visionary. </div ></br> <div align="center"> My favorite stacks consist of; React.js, node.js, MongoDB, express.js, Python, Django  </div> </br> <div align="center"> Fun facts: 
 Ambidexterous + Multilingual | Animal Lover | Foodie | Pokémon Maestro + Hogwarts Alumnus </br> </div>
 
-
-![Portfolio](https://i.imgur.com/EBQQpwq.png)
-
-<h6 align="center">This is my personal portfolio with some of my most recent works + projects. </h6>
-<h6 align="center">Feel free to contact me me via Gmail + LinkedIn using the links above. </h6>
-
+<div align="center">
 <hr>
 <h3 align="center">Technolgies + Techniques Utilized</h3>
 
 | . | . | . | . | . | . |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | :small_blue_diamond: React.js | :small_blue_diamond: HTML5 | :small_blue_diamond: SCSS | :small_blue_diamond: PWAs |:small_blue_diamond: Vercel | :small_blue_diamond: imgur |
+
+</div>
+
+![Portfolio](https://i.imgur.com/EBQQpwq.png)
+
+<h6 align="center">This is my personal portfolio with some of my most recent works + projects. </h6>
+<h6 align="center">Feel free to contact me me via Gmail + LinkedIn using the links above. </h6>
