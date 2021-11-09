@@ -22,4 +22,5 @@ Software Engineer. Creative Visionary. Practical Developer.
 | :small_blue_diamond: React.js | :small_blue_diamond: HTML5 | :small_blue_diamond: SCSS | :small_blue_diamond: PWAs |:small_blue_diamond: Vercel | :small_blue_diamond: imgur |
 
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-JhonKhrizhtian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonKhrizhtian/)]
+[![Website Badge](https://img.shields.io/badge/-Jo.Tr.io-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://bit.ly/jotrio/)](https://bit.ly/jotrio/)

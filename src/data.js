@@ -73,6 +73,24 @@ const projects = [
         ghLink: 'https://github.com/amriikk/Activism-App',
         desc: 'This application seeks to provide a space that acts as a hub for users to access valuable resources to better their own understanding of complex issues, interact with one another to see the dialogues about particular issues, and overall have a gamified experience that motivates users to take an active role in having difficult conversations.'
     },
+    // {
+    //     id: 9,
+    //     title: 'Candra Ltd',
+    //     category: 'MERN',
+    //     tech: 'React',
+    //     img: 'https://i.imgur.com/5Wi6nfn.png',
+    //     ghLink: 'https://github.com/amriikk/CandraLtd',
+    //     desc: 'Candra Ltd was built as a massive e-commerce application similar to Shopify using React, Redux, React Hooks, React Suspense, React Router, GraphQL, Context API, Firebase, Redux-Saga, Stripe + more.'
+    // },
+    // {
+    //     id: 10,
+    //     title: 'Activism App',
+    //     category: 'MERN',
+    //     tech: 'React',
+    //     img: 'https://i.imgur.com/1ZL4XlR.png',
+    //     ghLink: 'https://github.com/amriikk/Activism-App',
+    //     desc: 'This application seeks to provide a space that acts as a hub for users to access valuable resources to better their own understanding of complex issues, interact with one another to see the dialogues about particular issues, and overall have a gamified experience that motivates users to take an active role in having difficult conversations.'
+    // },
 ]
     
 export default projects;
