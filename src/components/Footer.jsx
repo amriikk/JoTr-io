@@ -1,11 +1,11 @@
 import React from 'react';
-import { FaGithub, FaLinkedin} from "react-icons/fa"
+import { FaGithub, FaLinkedin, FaInstagram, FaFilePdf } from "react-icons/fa"
 
 const Footer = () => {
     return (
-        <div className='footer'>
+        <div align="center" className='footer'>
             <br />
-            <h3><FaGithub /><FaLinkedin /></h3>
+            <h3><FaGithub /> <FaLinkedin /> <FaInstagram /> <FaFilePdf /></h3>
         </div>
     );
 }

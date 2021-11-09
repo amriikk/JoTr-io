@@ -157,6 +157,7 @@ Variables
     margin-right: auto;
   }
   .btn-container {
+    font-family: 'Cutive Mono', 'Open Sans', 'Helvetica Neue', sans-serif;
     margin-bottom: 4rem;
     display: flex;
     justify-content: center;
