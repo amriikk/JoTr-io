@@ -61,7 +61,7 @@ Variables
   }
   body {
     font-family: 'Cutive Mono', 'Open Sans', 'Helvetica Neue', sans-serif;
-    background: deepskyblue;
+    background: cyan;
     color: var(--clr-grey-1);
     line-height: 1.5;
     font-size: 0.875rem;
