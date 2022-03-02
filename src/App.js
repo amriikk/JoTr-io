@@ -22,7 +22,7 @@ function App() {
   return (
     <main>
       <section className='portfolio'>
-        <div>
+        <div className='header'>
           <h1 className='title'>Jo.Tr.io</h1>
           <h2 className='subtitle'>A Visionary Portfolio</h2>
           <div className='underline'></div>
