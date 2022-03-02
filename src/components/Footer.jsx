@@ -15,7 +15,7 @@ const Footer = () => {
                 <a href="https://instagram.com/vajra.io" target="_blank">
                     <FaInstagram />         
                 </a>
-                <a href='https://drive.google.com/file/d/1fmlfrL7hsSAkFjbSsqAGp2It4uamFdZ2/view?usp=sharing' target="_blank" download>
+                <a href='https://drive.google.com/file/d/1sz_KrsfseN1jlnISstCvQwWfV_x8-frB/view?usp=sharing' target="_blank" download>
                     <FaFilePdf />
                 </a>
             </h3>
