@@ -6,6 +6,9 @@ const Footer = () => {
         <div align="center" className='footer'>
             <br />
             <h3 className="fa-links">
+                <a href='https://drive.google.com/file/d/1sz_KrsfseN1jlnISstCvQwWfV_x8-frB/view?usp=sharing' target="_blank" download>
+                    <FaFilePdf />
+                </a>
                 <a href="https://github.com/amriikk" target="_blank">
                     <FaGithub />      
                 </a>
@@ -14,9 +17,6 @@ const Footer = () => {
                 </a>
                 <a href="https://instagram.com/vajra.io" target="_blank">
                     <FaInstagram />         
-                </a>
-                <a href='https://drive.google.com/file/d/1sz_KrsfseN1jlnISstCvQwWfV_x8-frB/view?usp=sharing' target="_blank" download>
-                    <FaFilePdf />
                 </a>
             </h3>
         </div>
