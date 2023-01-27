@@ -60,7 +60,7 @@ Variables
     box-sizing: border-box;
   }
   body {
-    font-family: 'Rajdhani', 'Cutive Mono', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Rajdhani', 'Crimson Text', 'Cutive Mono', 'Open Sans', 'Helvetica Neue', sans-serif;
     background: hsl(240, 2%, 17%);
     color: var(--clr-grey-1);
     line-height: 1.5;
@@ -96,7 +96,7 @@ Variables
     font-size: 0.875rem;
   }
   p {
-    font-family: 'Cutive Mono', serif;
+    font-family: 'Rajdhani','Cutive Mono', serif;
     margin-bottom: 1.25rem;
     color: var(--clr-white);
   }
@@ -171,7 +171,7 @@ Variables
     background: transparent;
     border-color: transparent;
     font-size: 1rem;
-    font-family: 'Cutive Mono', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Rajdhani','Cutive Mono', 'Open Sans', 'Helvetica Neue', sans-serif;
     text-transform: capitalize;
     margin: 0 0.5rem;
     letter-spacing: 1px;
