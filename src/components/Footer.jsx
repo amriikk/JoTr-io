@@ -6,7 +6,7 @@ const Footer = () => {
         <div align="center" className='footer'>
             <br />
             <h3 className="fa-links">
-                <a href='https://drive.google.com/file/d/1sz_KrsfseN1jlnISstCvQwWfV_x8-frB/view?usp=sharing' target="_blank" download>
+                <a href='https://drive.google.com/file/d/1bPLfpk1RKs41Rvn5y1qZ7HU8aQ5zJTYd/view?usp=sharing' target="_blank" download>
                     <FaFilePdf />
                 </a>
                 <a href="https://github.com/amriikk" target="_blank">
@@ -23,4 +23,4 @@ const Footer = () => {
     );
 }
 
-export default Footer;
+export default Footer
