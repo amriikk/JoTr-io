@@ -60,7 +60,7 @@ Variables
     box-sizing: border-box;
   }
   body {
-    font-family: 'Cutive Mono', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Rajdhani', 'Cutive Mono', 'Open Sans', 'Helvetica Neue', sans-serif;
     background: hsl(240, 2%, 17%);
     color: var(--clr-grey-1);
     line-height: 1.5;
