@@ -9,7 +9,7 @@ const Footer = () => {
                 <a href='https://drive.google.com/file/d/1bPLfpk1RKs41Rvn5y1qZ7HU8aQ5zJTYd/view?usp=sharing' target="_blank" download>
                     <FaFilePdf />
                 </a>
-                <a href="https://github.com/amriikk" target="_blank">
+                <a href="https://www.github.com/amriikk" target="_blank">
                     <FaGithub />      
                 </a>
                 <a href="https://www.linkedin.com/in/jhonkhrizhtian/" target="_blank">
